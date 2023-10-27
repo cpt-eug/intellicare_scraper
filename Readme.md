@@ -1,9 +1,3 @@
----
-title: Intellicare-Affiliated Dentists List
-created: '2023-10-27T09:49:41.132Z'
-modified: '2023-10-27T09:59:32.437Z'
----
-
 # Intellicare-Affiliated Dentists List
 
 The objective of this activity is to get all dentists from the table using python and convert it to csv
